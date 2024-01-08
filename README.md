@@ -1,6 +1,5 @@
-Hi!\
-My name is Mateusz Jarząbek\
-Frontend Developer
+Hi! I'm Mateusz
+** Frontend Developer
 ========================================================================================================================================
 
 * 🌍  I'm based in Wejherowo
