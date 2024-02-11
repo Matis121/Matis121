@@ -4,6 +4,7 @@
 
 * 🌍  I'm based in Wejherowo
 * ✉️  You can contact me at [mateusz6246@gmail.com](mailto:mateusz6246@gmail.com)
+* 👩🏻‍💻  Main project: <a href="https://scheduler-vite-nine.vercel.app/" rel="nofollow">Beauty Planner</a>
 
 ### Skills
 
