@@ -2,7 +2,6 @@
 ==============
 ### **Frontend Developer**
 
-* 🌍  I'm based in Wejherowo
 * ✉️  You can contact me at [mateusz6246@gmail.com](mailto:mateusz6246@gmail.com)
 * 👩🏻‍💻  Main project: <a href="https://beautyplanner-client.vercel.app/" rel="nofollow">Beauty Planner</a>
 
