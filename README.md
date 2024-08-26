@@ -3,7 +3,7 @@
 ### **Frontend Developer**
 
 * ✉️  You can contact me at [mateusz6246@gmail.com](mailto:mateusz6246@gmail.com)
-* 👩🏻‍💻  Main project: <a href="https://beautyplanner-client.vercel.app/" rel="nofollow">Beauty Planner</a>
+* 👩🏻‍💻  Main project: <a href="https://shop-planner.vercel.app/" rel="nofollow">Shop Planner</a>
 
 ### Skills
 
