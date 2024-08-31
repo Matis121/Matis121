@@ -5,7 +5,7 @@
 * ✉️  You can contact me at [mateusz6246@gmail.com](mailto:mateusz6246@gmail.com)
 * 👩🏻‍💻  Main project: <a href="https://shop-planner.vercel.app/" rel="nofollow">Shop Planner</a>
 
-<b>My GitHub Stats</b>
+<b>My stack</b>
 
 
 <div align="left">
