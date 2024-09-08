@@ -75,7 +75,10 @@
   ><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"></a>
 </div>
 
+<h3>🛠 Tech Stack</h3>
 
-<b>My GitHub Stats</b>
+- 💻 &nbsp; HTML | CSS | JavaScript | TypeScript | Node.js | Reactjs | MongoDB
+
+<h3>My GitHub Stats</h3>
 
 <a href="http://www.github.com/Matis121"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Matis121&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
