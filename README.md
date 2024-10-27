@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Mateusz
-FrontEnd Developer
+Full-Stack Developer
 
 * ✉️  You can contact me at [mateusz6246@gmail.com](mailto:mateusz6246@gmail.com)
 * 👩🏻‍💻  Main project: <a href="https://shop-planner.vercel.app/" rel="nofollow">Shop Planner</a>
