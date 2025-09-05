@@ -6,6 +6,6 @@ Full-Stack Developer
 
 #### 🛠 Tech Stack
 
-* 💻 &nbsp; Frontend - React.js | Next.js
 * 💻 &nbsp; Backend - Ruby On Rails | Node.js
-* 💻 &nbsp; Databases - MongoDB | Postgresql
+* 💻 &nbsp; Frontend - React.js | Next.js
+* 💻 &nbsp; Databases - Postgresql | MongoDB
