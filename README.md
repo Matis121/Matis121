@@ -2,7 +2,7 @@
 Full-Stack Developer
 
 * ✉️  You can contact me at: [mateusz6246@gmail.com](mailto:mateusz6246@gmail.com)
-* 👩🏻‍💻  Currently working on: <a href="https://github.com/Matis121/ruby-kanban" rel="nofollow">Kanbanly (Ruby On Rails)</a>
+* 👩🏻‍💻  Currently working on: <a href="https://github.com/Matis121/optisale" rel="nofollow">Optisale - system OMS (Ruby On Rails)</a>
 
 #### 🛠 Tech Stack
 
