@@ -2,6 +2,7 @@
 Ruby on Rails Developer
 
 * ✉️  Contact: [mateusz6246@gmail.com](mailto:mateusz6246@gmail.com)
+  
 * 👨‍💻  Currently working on:
   * [Optisale – Order Management System (Ruby on Rails)](https://github.com/Matis121/optisale)
   * [Livecart – Live Shopping SaaS (Ruby on Rails)](https://github.com/Matis121/livecart)
